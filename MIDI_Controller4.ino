@@ -49,7 +49,7 @@
 ///////////////////////////////////////////
 // BUTTONS
 const int N_BUTTONS = 12; //* total number of buttons
-const int BUTTON_ARDUINO_PIN[N_BUTTONS] = {10, 16, 14, 15, 6, 7, 8, 9, 2, 3, 4, 5}; //* pins of each button connected directly to the Arduino
+const int BUTTON_ARDUINO_PIN[N_BUTTONS] = {10, 11, 12, 13, 6, 7, 8, 9, 2, 3, 4, 5}; //* pins of each button connected directly to the Arduino
 
 //#define pin13 1 // uncomment if you are using pin 13 (the led pin), or comment out the line if not
 //byte pin13index = 12; //* put index of pin 13 of buttonPin[] array if you are using it, if not, comment
@@ -84,7 +84,7 @@ unsigned long timer[N_POTS] = {0}; // stores the time that has passed since the 
 ///////////////////////////////////////////
 // midi
 byte midiCh; // = 2; //* MIDI channel to be used
-byte note = 36; //* lowest grade to use
+byte note = 50; //* lowest grade to use
 byte cc; // = 11; //* Lowest MIDI CC to use
 byte empty;
 
