@@ -84,9 +84,8 @@ unsigned long timer[N_POTS] = {0}; // stores the time that has passed since the 
 ///////////////////////////////////////////
 // midi
 byte midiCh; // = 2; //* MIDI channel to be used
-byte note = 50; //* lowest grade to use
+byte note = 36; //* lowest grade to use
 byte cc; // = 11; //* Lowest MIDI CC to use
-byte empty;
 
 ///////////////////////////////////////////
 // SETUP
