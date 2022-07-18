@@ -1,5 +1,5 @@
 ﻿# Custom Audio Synthesizer
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This device utilizes buttons and potentiometers to send digital and analog inputs to an arduino. The arduino is programmed to convert these inputs into MIDI(Musical Instrument Digital Interface) signals. Your computer is then able to interpret these signals using your favorite audio software.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
