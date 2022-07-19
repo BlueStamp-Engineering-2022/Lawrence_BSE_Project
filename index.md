@@ -25,4 +25,4 @@ My first milestone was setting a up a functional circuit with 1 button and multi
 # Starter Project
 My starter project was Simon Says. In order to complete this project, I learned soldering as well as the functions of each part to ensure that I constructed it correctly. For example, I needed to know that LEDs had positive and negative polarity in order to place them accordingly. Soldering the components, especially the microcontroller, was somewhat challenging considering it was my first day. However, it was definitely satisfying to do the final assembly and see the project finally come together.
 
-[![Starter Project](https://img.youtube.com/vi/-b-rGRhXx58/maxresdefault.jpg)](https://www.youtube.com/watch?v=-b-rGRhXx58 "Starter Project"){:target="_blank" rel="noopener"}
+[![Starter Project](https://img.youtube.com/vi/-b-rGRhXx58/maxresdefault.jpg)](https://www.youtube.com/watch?v=-b-rGRhXx58 "Starter Project")
