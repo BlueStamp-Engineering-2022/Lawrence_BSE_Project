@@ -3,7 +3,7 @@ This device utilizes buttons and potentiometers to send digital and analog input
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Lawrence Chen | Cupertino High School | Electrical Engineering | Incoming Sophomore
+| Lawrence | Cupertino High School | Electrical Engineering | Incoming Sophomore
 
 ![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWnYIfiMCrzhEexiC3B2EEer0BGVDTiks_QQd0Zyyy9Psq_ozUOEsBgSgJYAcShyENWfNOVctX_ONRWoCizGWyJKkC3TQB5bZFOFmDW8A2pqlZgV1c52TIlhpcvTy-RLyLoDBID8I_iC3Sy7uwdK8s=w1230-h1640-no?authuser=0)
   
