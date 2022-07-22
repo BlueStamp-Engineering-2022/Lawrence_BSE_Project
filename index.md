@@ -22,12 +22,12 @@ My first milestone was setting a up a functional circuit with 1 button and multi
 
 [![First Milestone](https://img.youtube.com/vi/HvIb2GSrOdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=HvIb2GSrOdo "First Milestone")
 
-# Starter Project
-My starter project was Simon Says. In order to complete this project, I learned soldering as well as the functions of each part to ensure that I constructed it correctly. For example, I needed to know that LEDs had positive and negative polarity in order to place them accordingly. Soldering the components, especially the microcontroller, was somewhat challenging considering it was my first day. However, it was definitely satisfying to do the final assembly and see the project finally come together.
-
-[![Starter Project](https://img.youtube.com/vi/-b-rGRhXx58/maxresdefault.jpg)](https://www.youtube.com/watch?v=-b-rGRhXx58 "Starter Project")
-
 # Circuit Diagram
 Below is a circuit diagram for the circuitry involved in my project. Note that I used the arduino micro as my arduino of choice and only had 2 knob potentiomerers instead of 4.
 
 [![Circuit Diagram](https://raw.githubusercontent.com/BlueStamp-Engineering-2022/Lawrence_BSE_Project/gh-pages/MIDI%20Controller%20Circuit%20Diagram.png)]
+
+# Starter Project
+My starter project was Simon Says. In order to complete this project, I learned soldering as well as the functions of each part to ensure that I constructed it correctly. For example, I needed to know that LEDs had positive and negative polarity in order to place them accordingly. Soldering the components, especially the microcontroller, was somewhat challenging considering it was my first day. However, it was definitely satisfying to do the final assembly and see the project finally come together.
+
+[![Starter Project](https://img.youtube.com/vi/-b-rGRhXx58/maxresdefault.jpg)](https://www.youtube.com/watch?v=-b-rGRhXx58 "Starter Project")
