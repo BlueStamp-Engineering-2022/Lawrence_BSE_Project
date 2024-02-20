@@ -4,8 +4,6 @@ This device utilizes buttons and potentiometers to send digital and analog input
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Lawrence | Cupertino High School | Electrical Engineering | Incoming Sophomore
-
-![Headstone Image](https://lh3.googleusercontent.com/pw/AM-JKLWnYIfiMCrzhEexiC3B2EEer0BGVDTiks_QQd0Zyyy9Psq_ozUOEsBgSgJYAcShyENWfNOVctX_ONRWoCizGWyJKkC3TQB5bZFOFmDW8A2pqlZgV1c52TIlhpcvTy-RLyLoDBID8I_iC3Sy7uwdK8s=w1230-h1640-no?authuser=0)
   
 # Final Milestone
 My final milestone was the modification of using a slide potentiometer to change the octave of the notes played. This was a pretty simple modification but I had been struggling with it for a while due to a syntax error. I learned that I could not write conditionals like math equations(Ex. if(0 <= x < 250)) in arduino because (0 <= x) would be interpreted as a boolean with value 1 or 0, which are both less than 250, and therefore the if statement would always be true. This type of syntax worked in other progamming languages, but I was unaware that it didn't work in arduino. It was a struggle to solve the issue without knowing that information, but finally working the problem out was very satisfying.
